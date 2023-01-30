@@ -1,5 +1,5 @@
 fn main() {
     
     let answer = 1;
-    println!("The answer is: {}", answer);
+    println!("The answer is: {answer}");
 }
